@@ -12,7 +12,7 @@ O = emplacement pour mettre la box
 
 '#' = mur
 
-COMMENT JOUER : flèche pour bouger le personage P
+COMMENT JOUER : flèche pour bouger le personnage P
 
 USAGE : ./my_sokoban [map]
 
